@@ -2,7 +2,9 @@
 
 An Objective C wrapper for [multipart-parser](https://github.com/FooBarWidget/multipart-parser), Hongli Lai's C++ implementation of a simple and efficient multipart MIME message parser.
 
-*NOTE*: This project only includes the wrapper class.  Be sure to also grab [multipart-parser](https://github.com/FooBarWidget/multipart-parser) from its official repository.
+**NOTE**: This project only includes the wrapper class. You will also need to obtain [multipart-parser](https://github.com/FooBarWidget/multipart-parser) from its official repository.
+
+**NOTE**: Because multipart-parser is built on the C++ Standard Library, be sure to link your binary with the `libstdc++.dylib` library when configuring your project targets.
 
 # License
 
