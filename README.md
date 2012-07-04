@@ -1,8 +1,8 @@
 # CCMultipartReader
 
-An Objective C wrapper for (multipart-parser)[https://github.com/FooBarWidget/multipart-parser], Hongli Lai's C++ implementation of a simple and efficient multipart MIME message parser.
+An Objective C wrapper for [multipart-parser](https://github.com/FooBarWidget/multipart-parser), Hongli Lai's C++ implementation of a simple and efficient multipart MIME message parser.
 
-*NOTE*: This project only includes the wrapper class.  Be sure to also grab (multipart-parser)[https://github.com/FooBarWidget/multipart-parser] from its official repository. 
+*NOTE*: This project only includes the wrapper class.  Be sure to also grab [multipart-parser](https://github.com/FooBarWidget/multipart-parser) from its official repository.
 
 # License
 
